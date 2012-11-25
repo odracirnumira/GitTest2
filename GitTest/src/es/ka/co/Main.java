@@ -1,5 +1,8 @@
 package es.ka.co;
 
+import java.util.List;
+import java.util.Vector;
+
 public class Main
 {
 
@@ -10,10 +13,8 @@ public class Main
     {
         // TODO Auto-generated method stub
 
-        
-        
-        
-        
+        List<Integer> eoooo = new Vector<Integer>();
+
     }
 
 }
